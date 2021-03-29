@@ -1,52 +1,11 @@
-﻿  AppDelegate.cpp
-  Function.cpp
-  MainMenu.cpp
-  MainScene.cpp
-  SlotMachine.cpp
-  SlotUser.cpp
-  main.cpp
-C:\Users\kf08\mygame\MyCppGame\Classes\AppDelegate.cpp(1,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
-C:\Users\kf08\mygame\MyCppGame\Classes\AppDelegate.h(28,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 ..\Classes\AppDelegate.cpp)
+﻿  SlotMachine.cpp
 C:\Users\kf08\mygame\MyCppGame\Classes\SlotMachine.cpp(1,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
-C:\Users\kf08\mygame\MyCppGame\Classes\Function.cpp(1,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
-C:\Users\kf08\mygame\MyCppGame\Classes\SlotUser.cpp(1,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
-C:\Users\kf08\mygame\MyCppGame\Classes\SlotMachine.h(4,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 ..\Classes\SlotMachine.cpp)
-C:\Users\kf08\mygame\MyCppGame\Classes\MainScene.cpp(1,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
-C:\Users\kf08\mygame\MyCppGame\Classes\MainMenu.cpp(1,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
-C:\Users\kf08\mygame\MyCppGame\Classes\MainScene.h(4,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 ..\Classes\MainScene.cpp)
-C:\Users\kf08\mygame\MyCppGame\Classes\MainMenu.h(4,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 ..\Classes\MainMenu.cpp)
-C:\Users\kf08\mygame\MyCppGame\Classes\AppDelegate.h(28,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 main.cpp)
-C:\Users\kf08\mygame\MyCppGame\cocos2d\cocos\physics\CCPhysicsShape.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 main.cpp)
-C:\Users\kf08\mygame\MyCppGame\cocos2d\cocos\physics\CCPhysicsShape.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 ..\Classes\AppDelegate.cpp)
-C:\Users\kf08\mygame\MyCppGame\cocos2d\cocos\physics\CCPhysicsShape.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 ..\Classes\MainScene.cpp)
-C:\Users\kf08\mygame\MyCppGame\cocos2d\cocos\physics\CCPhysicsShape.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 ..\Classes\MainMenu.cpp)
-C:\Users\kf08\mygame\MyCppGame\cocos2d\cocos\physics\CCPhysicsShape.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 ..\Classes\SlotMachine.cpp)
-C:\Users\kf08\mygame\MyCppGame\cocos2d\cocos\physics\CCPhysicsShape.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 ..\Classes\Function.cpp)
-C:\Users\kf08\mygame\MyCppGame\cocos2d\cocos\platform\CCSAXParser.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 main.cpp)
-C:\Users\kf08\mygame\MyCppGame\cocos2d\cocos\platform\CCSAXParser.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 ..\Classes\MainMenu.cpp)
-C:\Users\kf08\mygame\MyCppGame\cocos2d\cocos\platform\CCSAXParser.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 ..\Classes\Function.cpp)
-C:\Users\kf08\mygame\MyCppGame\cocos2d\cocos\platform\CCSAXParser.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 ..\Classes\MainScene.cpp)
-C:\Users\kf08\mygame\MyCppGame\cocos2d\cocos\platform\CCSAXParser.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 ..\Classes\SlotMachine.cpp)
-C:\Users\kf08\mygame\MyCppGame\cocos2d\cocos\platform\CCSAXParser.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 ..\Classes\AppDelegate.cpp)
-C:\Users\kf08\mygame\MyCppGame\Classes\MainScene.h(4,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 main.cpp)
-C:\Users\kf08\mygame\MyCppGame\Classes\MainMenu.h(4,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 main.cpp)
-C:\Users\kf08\mygame\MyCppGame\Classes\SlotMachine.h(4,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 main.cpp)
-C:\Users\kf08\mygame\MyCppGame\Classes\MainScene.h(4,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 ..\Classes\MainMenu.cpp)
-C:\Users\kf08\mygame\MyCppGame\Classes\AppDelegate.h(28,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 ..\Classes\MainMenu.cpp)
-C:\Users\kf08\mygame\MyCppGame\Classes\SlotMachine.h(4,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 ..\Classes\MainMenu.cpp)
-C:\Users\kf08\mygame\MyCppGame\Classes\MainScene.h(4,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 ..\Classes\Function.cpp)
-C:\Users\kf08\mygame\MyCppGame\Classes\MainMenu.h(4,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 ..\Classes\Function.cpp)
-C:\Users\kf08\mygame\MyCppGame\Classes\AppDelegate.h(28,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 ..\Classes\Function.cpp)
-C:\Users\kf08\mygame\MyCppGame\Classes\SlotMachine.h(4,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 ..\Classes\Function.cpp)
-C:\Users\kf08\mygame\MyCppGame\Classes\MainScene.h(4,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 ..\Classes\AppDelegate.cpp)
-C:\Users\kf08\mygame\MyCppGame\Classes\MainMenu.h(4,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 ..\Classes\AppDelegate.cpp)
-C:\Users\kf08\mygame\MyCppGame\Classes\SlotMachine.h(4,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 ..\Classes\AppDelegate.cpp)
-C:\Users\kf08\mygame\MyCppGame\Classes\MainMenu.h(4,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 ..\Classes\MainScene.cpp)
-C:\Users\kf08\mygame\MyCppGame\Classes\AppDelegate.h(28,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 ..\Classes\MainScene.cpp)
-C:\Users\kf08\mygame\MyCppGame\Classes\SlotMachine.h(4,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 ..\Classes\MainScene.cpp)
-C:\Users\kf08\mygame\MyCppGame\Classes\MainScene.h(4,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 ..\Classes\SlotMachine.cpp)
-C:\Users\kf08\mygame\MyCppGame\Classes\MainMenu.h(4,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 ..\Classes\SlotMachine.cpp)
-C:\Users\kf08\mygame\MyCppGame\Classes\AppDelegate.h(28,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 ..\Classes\SlotMachine.cpp)
+C:\Users\kf08\mygame\MyCppGame\Classes\SlotMachine.h(4,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+C:\Users\kf08\mygame\MyCppGame\cocos2d\cocos\physics\CCPhysicsShape.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\kf08\mygame\MyCppGame\cocos2d\cocos\platform\CCSAXParser.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\kf08\mygame\MyCppGame\Classes\MainScene.h(4,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+C:\Users\kf08\mygame\MyCppGame\Classes\MainMenu.h(4,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+C:\Users\kf08\mygame\MyCppGame\Classes\AppDelegate.h(28,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
 C:\Users\kf08\mygame\MyCppGame\Classes\SlotMachine.cpp(61,29): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
 C:\Users\kf08\mygame\MyCppGame\Classes\SlotMachine.cpp(71,24): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
 C:\Users\kf08\mygame\MyCppGame\Classes\SlotMachine.cpp(124,9): warning C4101: 'check' :참조되지 않은 지역 변수입니다.

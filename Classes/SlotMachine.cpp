@@ -83,7 +83,7 @@ void SlotMachine::spinEvent()
     Animation* animation;
     Animate* animate;
     Repeat* rep;
-    std::vector<int> vList{ 92,2,2,2,2 };
+    std::vector<int> vList{ 5,4,3,2,1 };
     count = 0;
     user.setCoin(user.getCoin() - (1 * user.getBet()));
 
@@ -129,19 +129,19 @@ void SlotMachine::slotResult() {
         switch (indexCheck(index)) 
         {
             case 1:
-                user.setCoin(user.getCoin() + (5 * user.getBet()));
+                user.setCoin(user.getCoin() + (3 * user.getBet()));
                 break;
             case 2:
-                user.setCoin(user.getCoin() + (10 * user.getBet()));
+                user.setCoin(user.getCoin() + (5 * user.getBet()));
                 break;
             case 3:
-                user.setCoin(user.getCoin() + (50 * user.getBet()));
+                user.setCoin(user.getCoin() + (8 * user.getBet()));
                 break;
             case 4:
-                user.setCoin(user.getCoin() + (200 * user.getBet()));
+                user.setCoin(user.getCoin() + (15 * user.getBet()));
                 break;
             case 5:
-                user.setCoin(user.getCoin() + (7777 * user.getBet()));
+                user.setCoin(user.getCoin() + (50 * user.getBet()));
                 break;
             default:
                 break;
